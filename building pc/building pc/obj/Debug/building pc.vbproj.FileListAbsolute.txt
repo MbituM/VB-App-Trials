@@ -1,0 +1,12 @@
+C:\Users\john9\source\repos\building pc\building pc\obj\Debug\building pc.vbproj.AssemblyReference.cache
+C:\Users\john9\source\repos\building pc\building pc\obj\Debug\building_pc.Form1.resources
+C:\Users\john9\source\repos\building pc\building pc\obj\Debug\building_pc.Resources.resources
+C:\Users\john9\source\repos\building pc\building pc\obj\Debug\building pc.vbproj.GenerateResource.cache
+C:\Users\john9\source\repos\building pc\building pc\obj\Debug\building pc.vbproj.CoreCompileInputs.cache
+C:\Users\john9\source\repos\building pc\building pc\bin\Debug\building pc.exe.config
+C:\Users\john9\source\repos\building pc\building pc\bin\Debug\building pc.exe
+C:\Users\john9\source\repos\building pc\building pc\bin\Debug\building pc.pdb
+C:\Users\john9\source\repos\building pc\building pc\bin\Debug\building pc.xml
+C:\Users\john9\source\repos\building pc\building pc\obj\Debug\building pc.exe
+C:\Users\john9\source\repos\building pc\building pc\obj\Debug\building pc.xml
+C:\Users\john9\source\repos\building pc\building pc\obj\Debug\building pc.pdb

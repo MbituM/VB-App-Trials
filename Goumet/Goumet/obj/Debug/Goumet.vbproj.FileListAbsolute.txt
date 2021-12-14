@@ -1,0 +1,12 @@
+C:\Users\john9\source\repos\Goumet\Goumet\bin\Debug\Goumet.exe.config
+C:\Users\john9\source\repos\Goumet\Goumet\bin\Debug\Goumet.exe
+C:\Users\john9\source\repos\Goumet\Goumet\bin\Debug\Goumet.pdb
+C:\Users\john9\source\repos\Goumet\Goumet\bin\Debug\Goumet.xml
+C:\Users\john9\source\repos\Goumet\Goumet\obj\Debug\Goumet.vbproj.AssemblyReference.cache
+C:\Users\john9\source\repos\Goumet\Goumet\obj\Debug\Goumet.Form1.resources
+C:\Users\john9\source\repos\Goumet\Goumet\obj\Debug\Goumet.Resources.resources
+C:\Users\john9\source\repos\Goumet\Goumet\obj\Debug\Goumet.vbproj.GenerateResource.cache
+C:\Users\john9\source\repos\Goumet\Goumet\obj\Debug\Goumet.vbproj.CoreCompileInputs.cache
+C:\Users\john9\source\repos\Goumet\Goumet\obj\Debug\Goumet.exe
+C:\Users\john9\source\repos\Goumet\Goumet\obj\Debug\Goumet.xml
+C:\Users\john9\source\repos\Goumet\Goumet\obj\Debug\Goumet.pdb
